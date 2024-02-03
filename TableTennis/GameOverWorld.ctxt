@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameOverWorld
+comment1.params=playerWon
+comment1.target=GameOverWorld(boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GameOverWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=width
+comment1.target=Score(int)
+comment2.params=
+comment2.target=void\ updateScore()
+comment3.params=
+comment3.target=void\ draw()
+numComments=4

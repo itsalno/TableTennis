@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Level
+comment1.params=text
+comment1.target=Level(java.lang.String)
+comment2.params=text
+comment2.target=void\ updateText(java.lang.String)
+comment3.params=text
+comment3.target=void\ draw(java.lang.String)
+numComments=4

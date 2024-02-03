@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ScoreManager
+comment1.params=
+comment1.target=int\ getPlayerHit()
+comment2.params=
+comment2.target=int\ getPlayerScore()
+comment3.params=
+comment3.target=int\ getComputerScore()
+comment4.params=newPlayerScore
+comment4.target=void\ setPlayerScore(int)
+comment5.params=newComputerScore
+comment5.target=void\ setComputerScore(int)
+comment6.params=newPlayerHit
+comment6.target=void\ setPlayerHit(int)
+comment7.params=
+comment7.target=void\ increasePlayerHitByOne()
+comment8.params=
+comment8.target=void\ increasePlayerScoreByOne()
+comment9.params=
+comment9.target=void\ increaseComputerScoreByOne()
+numComments=10
